@@ -14,8 +14,8 @@ Continuous Attributes:
 * procedure_length(hours)
 * No_of_doctors_working_on_procedure
 * no_of_other_staff_working_on_procedure
-* age_of_person
-I have decided not to use outcome measures in my analysis as they are obtained after the procedure is over and hence can’t be used to predict the outcome. To ensure that my code runs I have also created random data for these attributes  as well as for  the outcome and outcome measures.They are created in the cms_procedures.py file.
+* age_of_person <br>
+I have decided not to use outcome measures in my analysis as they are obtained after the procedure is over and hence can’t be used to predict the outcome. To ensure that my code runs I have also created random data for these attributes  as well as for  the outcome and outcome measures.They are created in the **cms_procedures.py** file.
 
 # Cms_procedures.py file
 
