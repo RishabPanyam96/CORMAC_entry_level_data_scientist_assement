@@ -22,10 +22,10 @@ I have decided not to use outcome measures in my analysis as they are obtained a
 This file is used to generate random data and create functions to supply data for the model.It has all the relevant functions that are to be used and return the data in a dictionary format.
 
 I created a class called cms_procedures having the following functions:
-__init__ function to create the data
-get_procedure_attributes to get the attributes for a given procedure id
-get_procedure_success to get the result for a given procedure id
-get_procedure_outcomes to get post procedure outcomes for a given procedure id
+* __init__ function to create the data
+* get_procedure_attributes to get the attributes for a given procedure id
+* get_procedure_success to get the result for a given procedure id
+* get_procedure_outcomes to get post procedure outcomes for a given procedure id
 
 
 # Train.py file
